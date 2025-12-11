@@ -82,10 +82,6 @@ in the project.
 }
 ```
 
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for more info.
-
 ## Local development
 
 > [!TIP]
